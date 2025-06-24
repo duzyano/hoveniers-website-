@@ -5,6 +5,11 @@
   padding: 0;
   box-sizing: border-box;
 }
-body {
-  background-color: blue;
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
 }
