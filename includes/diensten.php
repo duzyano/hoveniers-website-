@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="../assets/css/diensten.css">
-
+<h1>Mijn Diensten</h1>
 <div class="diensten">
 <div><img src="../assets/images/icon-tuinaanleg.png">
 <p class="titel">Tuinaanleg </p><p>Het aanleggen van een tuin doen ik altijd vanuit dezelfde drive: ik wil er iets moois van maken.</p></div>
