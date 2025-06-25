@@ -1,0 +1,19 @@
+.diensten{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    font-family: "EB Garamond", serif;
+
+
+    
+}
+.diensten div{
+    width: 50%;
+    border: 1px solid black;
+    margin: 20%;
+    padding: 20px;
+}
+
+.diensten .titel {
+    color: black;
+    font-weight: bold;
+}
