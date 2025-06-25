@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="assets/css/slideshow.css">
   </head>
   <body>
+    <section class="aboutme">
+      
+    </section>
     <?php include 'includes/slideshow.php'; ?>
   </body>
 </html>
