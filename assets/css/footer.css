@@ -1,0 +1,22 @@
+footer{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 100px;
+    margin-top: 250px;
+}
+.div1 {grid-area: 1 / 2 / 2 / 3;}
+.div2 {grid-area: 1 / 3 / 2 / 4;}
+.div3 {grid-area: 1 / 4 / 2 / 5;}
+
+footer li{
+    list-style: none;
+    padding-top: 20px;
+    margin: 0;
+    
+}
+
+footer ul{
+    padding: 0;
+    margin: 0;
+}
