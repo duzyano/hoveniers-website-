@@ -1,2 +1,21 @@
 @import url("base.css");
 
+.mySlides {
+  width: 100%;
+  opacity: .7;
+}
+
+h1{
+    position: absolute;
+    top: 200px;
+    left: 25%;
+    width: 50%;
+    color: white;
+    text-shadow: 4px 4px 2px black;
+    font-weight: bold;
+
+}
+
+.slider{
+    position: relative;
+}
