@@ -10,5 +10,6 @@
 
     <?php include 'includes/slideshow.php'; ?>
     <?php include 'includes/about-me.php'; ?>
+    <?php include 'includes/reviews.php'; ?>
   </body>
 </html>
