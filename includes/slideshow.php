@@ -8,12 +8,14 @@ function carousel() {
   var i;
   var x = document.getElementsByClassName("mySlides");
   for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
+    // x[i].style.display = "none";
+     x[i].style.transform = "scale(0.8)";
   }
   slideIndex++;
   if (slideIndex > x.length) {slideIndex = 1;}
   if (x.length > 0) {
-    x[slideIndex-1].style.display = "block";
+    // x[slideIndex-1].style.display = "block";
+    x[slideIndex-1].style.transform = "scale(1)";
   }
   setTimeout(carousel, 5000); // Change image every 5 seconds
 }
