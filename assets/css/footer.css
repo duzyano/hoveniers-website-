@@ -13,10 +13,20 @@ footer li{
     list-style: none;
     padding-top: 20px;
     margin: 0;
-    
+    font-family: "EB Garamond", serif;
 }
 
 footer ul{
     padding: 0;
     margin: 0;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;              
+}
+
+.logo img{
+  height: 100%;
+  width: 100%;
 }
