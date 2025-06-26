@@ -9,11 +9,8 @@
 </head>
 
 <body>
-  <section class="aboutme">
-
-  </section>
-  <?php include 'includes/slideshow.php'; ?>
   <?php include 'includes/navbar.php'; ?>
+  <?php include 'includes/slideshow.php'; ?>
 
 </body>
 
