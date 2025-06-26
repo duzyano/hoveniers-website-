@@ -11,5 +11,6 @@
     <?php include 'includes/slideshow.php'; ?>
     <?php include 'includes/about-me.php'; ?>
     <?php include 'includes/reviews.php'; ?>
+    <?php include 'includes/contact-formulier.php'; ?>
   </body>
 </html>
