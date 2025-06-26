@@ -47,6 +47,10 @@
   cursor: pointer;
 }
 
+.navbar__mobile-menu-toggle {
+  color: var(--primary-color);
+}
+
 .navbar__mobile-menu-items {
   position: absolute;
   top: 100%;

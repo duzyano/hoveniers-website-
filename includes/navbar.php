@@ -1,7 +1,9 @@
  <navbar class="navbar navbar--scroll">
    <div class="navbar__container container">
      <div class="navbar__logo">
-       <img src="./assets/images/logo3__1_-removebg-preview.png" alt="logo" width="300px" height="300px" />
+       <a href="index.php" class="navbar__logo-link">
+         <img src="./assets/images/logo3__1_-removebg-preview.png" alt="logo" width="300px" height="300px" />
+       </a>
      </div>
      <div class="navbar__menu">
        <ul class="navbar__menu-list">
