@@ -1,6 +1,8 @@
 .aboutme {
+  display: grid;
   gap: 5rem;
   margin: 100px auto;
+  width: 500px;
 }
 
 .aboutme__container {
