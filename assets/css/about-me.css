@@ -1,10 +1,8 @@
 .aboutme {
-  height: 100vh;
-  width: 55%;
   display: grid;
-  align-content: center;
   gap: 5rem;
-  margin: 0 auto;
+  margin: 100px auto;
+  width: 500px;
 }
 
 .aboutme__container {
@@ -16,7 +14,7 @@
 .aboutme__container-reversed {
   display: flex;
   flex-direction: row-reverse;
-  gap: 2rem;
+  gap: 5rem;
   align-items: center;
 }
 
