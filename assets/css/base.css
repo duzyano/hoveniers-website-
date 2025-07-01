@@ -21,9 +21,44 @@ a {
   text-decoration: none;
 }
 
+input,
+textarea {
+  display: block;
+  margin-bottom: 1rem;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid;
+  outline: none;
+  padding-bottom: 1rem;
+}
+
+label {
+  color: #333;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+textarea {
+  resize: none;
+  margin-bottom: 1.5rem;
+}
+
+.formgroup {
+  margin: 2rem 0;
+}
+
 html,
 body {
   font-family: "Open sans", sans-serif;
   scroll-behavior: smooth;
   height: 1100px;
+  line-height: 1.4;
 }
