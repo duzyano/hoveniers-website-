@@ -1,33 +1,47 @@
+.diensten {
+  padding: 2rem;
+}
+
 .diensten__cards {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 4rem;
-  margin: 100px auto;
-  font-family: "EB Garamond", serif;
-  width: 100rem;
+  margin: 50px auto 100px;
+  width: 100%;
 }
 
 .diensten__card {
   width: 100%;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
-
   padding: 1.2rem;
+  /* transition: all 0.3s ease-in-out; */
 }
 
-.diensten .titel {
-  color: black;
-  font-weight: bold;
-}
+/* .diensten__card:hover {
+  transform: scale(1.1);
+} */
+
 .diensten__title {
   text-align: center;
-  width: 50%;
+  width: 100%;
   margin: 0 auto;
-  padding-top: 50px;
+}
+
+.diensten__card-title {
+  margin-bottom: 5px;
+}
+
+.diensten__card img {
+  width: 5rem;
+  margin-bottom: 10px;
 }
 
 @media (max-width: 992px) {
   .diensten {
     padding: 2rem;
-    background: red;
+  }
+
+  .diensten__cards {
+    grid-template-columns: 1fr;
   }
 }
