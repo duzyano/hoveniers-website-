@@ -29,4 +29,3 @@
     </div>
   </form>
 </section>
-<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum pariatur minus obcaecati! Eveniet modi error in natus ut temporibus porro doloribus minus. Eius, unde saepe laboriosam fuga necessitatibus delectus dolores, consequatur quidem tempore maiores eum obcaecati repellendus incidunt architecto debitis aspernatur numquam accusamus, reiciendis dignissimos sit sint pariatur esse ut. Recusandae aspernatur culpa odio quibusdam, ipsum voluptatem natus, quo hic repellendus sapiente sed? Voluptatem omnis tenetur sapiente, dicta labore harum eum quae aliquam ipsam cumque dolores, beatae nulla doloribus atque. Labore, voluptatum. Ad ipsum quod sed harum, in, velit nisi deleniti reiciendis, mollitia voluptates ut dolor? Voluptatibus ratione vero libero.</p>
