@@ -3,15 +3,17 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
 
+
 <footer>
 
 <div class="div1">
     <h3>Gegevens</h3>
     <ul>
-        <li>06-21745678</li>
+        <li><a href="tel:0621745678">06-21745678</a></li>
+        <li><a href="mailto:hendrickhogendijkhovenier@gmail.com">hendrickhogendijkhovenier@gmail.com</a></li>
         <li>Hoefstraat 42</li>
         <li>7143HH Lichtenvoorde</li>
-        <li>hendrickhogendijkhovenier@gmail.com</li>
+       
     </ul>
 </div>
 <div class="div2">
