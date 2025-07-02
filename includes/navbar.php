@@ -1,5 +1,5 @@
  <navbar class="navbar navbar--scroll">
-   <div class="navbar__container container">
+   <div class="navbar__container">
      <div class="navbar__logo">
        <a href="index.php" class="navbar__logo-link">
          <img src="./assets/images/logo3__1_-removebg-preview.png" alt="logo" width="300px" height="300px" />

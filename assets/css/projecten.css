@@ -6,13 +6,7 @@
   gap: 2rem;
   min-width: 900px;
 
-  .projects__image {
-    background: coral;
-    margin: 1rem;
-    height: 30rem;
-  }
-
-  img {
+  .projects__image img {
     width: 100%;
     height: 100%;
     /* min-width: 20rem; */

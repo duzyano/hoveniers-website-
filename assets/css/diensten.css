@@ -1,28 +1,27 @@
-.diensten{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    font-family: "EB Garamond", serif;
-    margin-top: -50px;
-
-
-    
+.diensten__cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 4rem;
+  margin: 100px auto;
+  font-family: "EB Garamond", serif;
+  width: 100rem;
 }
-.diensten div{
-    width: 50%;
-    border: 1px solid black;
-    margin: 20%;
-    padding: 20px;
+
+.diensten__card {
+  width: 100%;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+
+  padding: 1.2rem;
 }
 
 .diensten .titel {
-    color: black;
-    font-weight: bold;
+  color: black;
+  font-weight: bold;
 }
-h1{
-    text-align: center;
-    width: 50%;
-    margin: 0 auto;
-    font-family: "EB Garamond", serif;
-    padding-top: 50px;
-
+.diensten__title {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  font-family: "EB Garamond", serif;
+  padding-top: 50px;
 }
