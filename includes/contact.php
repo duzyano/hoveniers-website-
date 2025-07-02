@@ -1,4 +1,4 @@
-<section class="contact-form">
+<section class="contact-form" id="contact">
 
   <h2 class="contact__title">Neem vrijblijvend contact</h2>
   <p class="contact-form__intro">

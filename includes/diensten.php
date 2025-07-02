@@ -1,9 +1,5 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
-
 <section class="diensten" id="diensten">
-  <h1 class="diensten__title">Mijn Diensten</h1>
+  <h2 class="diensten__title">Mijn Diensten</h2>
   <div class="diensten__cards">
     <div class="diensten__card"><img src="./assets/images/icon-tuinaanleg.png">
       <p class="titel">Tuinaanleg </p>

@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
-<link rel="stylesheet" href="./assets/css/style.css">
 <script>
   var slideIndex = 0;
   carousel();

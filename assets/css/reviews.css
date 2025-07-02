@@ -29,7 +29,7 @@
   font-style: italic;
 }
 
-.container {
+.reviews__container {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 30rem));
   row-gap: 20px;
@@ -87,7 +87,7 @@ label {
 }
 
 @media (max-width: 768px) {
-  .container {
+  .reviews__container {
     grid-template-columns: repeat(2, 1fr);
   }
 
@@ -97,7 +97,7 @@ label {
 }
 
 @media (max-width: 576px) {
-  .container {
+  .reviews__container {
     grid-template-columns: 1fr;
   }
 }

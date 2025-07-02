@@ -1,5 +1,5 @@
 <section class="reviews" id="reviews">
-    <div class="container">
+    <div class="reviews__container">
         <div class="reviews__card">
             <input type="checkbox" id="expanded">
             <p class="review">“Heel erg bedankt voor de efficiënte service, je was heel snel klaar en ik zal je nummer zeker behouden om je weer te gebruiken.”</p>

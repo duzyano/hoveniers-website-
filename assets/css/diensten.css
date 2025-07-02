@@ -25,3 +25,10 @@
   font-family: "EB Garamond", serif;
   padding-top: 50px;
 }
+
+@media (max-width: 992px) {
+  .diensten {
+    padding: 2rem;
+    background: red;
+  }
+}
