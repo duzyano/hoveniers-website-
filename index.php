@@ -13,6 +13,10 @@
 <body>
   <?php include 'includes/navbar.php'; ?>
   <?php include 'includes/slideshow.php'; ?>
+  <?php include 'includes/about-me.php'; ?>
+  <?php include 'includes/diensten.php'; ?>
+
+
 </body>
 
 </html>
