@@ -7,7 +7,7 @@
             <img src="./assets/images/hendrik.png" alt="Image Hendrik">
         </div>
     </div>
-    <div class="aboutme__container-reversed">
+    <div class="aboutme__container">
         <div class="aboutme__description">
             <p>Met behulp van mooie, natuurlijke en duurzame producten en materialen creëer ik een tuin, die garant staat voor een jarenlang plezierig buitenleven. Van een knusse veranda en een mooie vijver, tot een gezellig terras en een kleurrijke bloemenborder: ik stop al mijn energie erin.</p>
         </div>

@@ -1,5 +1,5 @@
 <section class="projects" id="projecten">
-  <div class="container">
+  <div class="projects__container">
     <a class="image-1 projects__image" href="./assets/images/a8db60_0f63450d75f645bdab574047c56cf898_mv2.webp"
       data-lightbox="Image-1"
       data-title="Image 1">
