@@ -14,7 +14,7 @@
 }
 
 .navbar.navbar--scroll {
-  background-color: #fefdf4;
+  background-color: #fff;
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
 }
