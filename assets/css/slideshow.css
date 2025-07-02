@@ -1,2 +1,43 @@
 @import url("base.css");
 
+.mySlides {
+  display: block;
+  position: absolute;
+
+  visibility: hidden;
+
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+  opacity: .7;
+
+  transform: scale(0);
+  transition: transform 1s ease-in-out;
+}
+
+.mySlides.active {
+    visibility: visible;
+    transform: scale(1);
+}
+
+h1{
+    position: absolute;
+    top: 200px;
+    left: 25%;
+    width: 50%;
+    color: white;
+    text-shadow: 4px 4px 2px black;
+    font-weight: bold;
+
+}
+
+.slider{
+    position: relative;
+
+    height: 100vh;
+    width: 100%;
+}
