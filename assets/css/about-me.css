@@ -49,6 +49,7 @@
   .aboutme__container:nth-of-type(2) {
     flex-direction: column-reverse;
     align-items: center;
+    gap: 2rem;
   }
 
   .aboutme__description {

@@ -15,8 +15,13 @@
 
 .navbar.navbar--scroll {
   background-color: #fff;
+
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
+}
+
+.navbar.navbar--scroll a {
+  color: #000;
 }
 
 .navbar__container {

@@ -11,18 +11,11 @@ document.addEventListener("DOMContentLoaded", function () {
 // Navigation background on scroll
 window.addEventListener("scroll", function () {
   const navbar = document.querySelector(".navbar");
-  const navbarLink = document.querySelector(".navbar__menu-item");
+  const navbarLink = document.querySelector(".navbar__menu-link");
 
   if (window.scrollY > 0) {
     navbar.classList.add("navbar--scroll");
   } else {
     navbar.classList.remove("navbar--scroll");
-  }
-
-  if (this.window.scrollY > 0) {
-    navbarLink.style.color = "red";
-    console.log(navbarLink);
-  } else {
-    navbarLink.style.color = "#fff";
   }
 });
