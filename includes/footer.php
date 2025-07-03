@@ -20,7 +20,7 @@
             </ul>
         </div>
         <div class="footer__logo">
-            <img src="./assets/images/logo3__2_-removebg-preview.png" alt="logo">
+            <a href="#"><img src="./assets/images/logo3__2_-removebg-preview.png" alt="logo"></a>
         </div>
     </div>
     <div class="footer__iframe">

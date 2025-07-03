@@ -1,0 +1,29 @@
+.plan {
+  margin: 100px auto;
+}
+
+.plan__container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.plan__card {
+  width: 20rem;
+  text-align: center;
+}
+
+.plan__icon {
+  margin-bottom: 1rem;
+}
+
+.plan__icon i {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  background: #d8e4d5;
+  padding: 1rem;
+  border-radius: 50%;
+}
+
+.plan__title {
+  margin-bottom: 5px;
+}
