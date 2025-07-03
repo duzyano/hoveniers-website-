@@ -42,7 +42,3 @@
     grid-row: auto;
   }
 }
-
-.projects__container > * {
-  border: 1px solid red;
-}
