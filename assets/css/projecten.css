@@ -35,6 +35,11 @@
     grid-template-columns: 1fr;
   }
 
+  .image-4,
+  .image-6 {
+    display: none;
+  }
+
   .image-2,
   .image-4,
   .image-5 {

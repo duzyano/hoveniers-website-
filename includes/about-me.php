@@ -1,4 +1,4 @@
-<section class="aboutme" id="aboutme">
+<section class="aboutme margin-sm" id="aboutme">
     <div class="aboutme__container">
         <div class="aboutme__description">
             <p>De tuin is een belangrijke plek van de woning, waar je het liefst zoveel mogelijk tijd in doorbrengt. Bij Hendrik Hogendijk Hoveniers vindt ik het daarom belangrijk dat iedereen zich thuis voelt in zijn of haar tuin. Ik maak de tuin onderdeel van jouw "thuis", door hem volledig op jouw wensen af te stemmen.</p>

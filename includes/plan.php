@@ -1,4 +1,4 @@
-<section class="plan">
+<section class="plan margin-sm">
   <div class="plan__container">
     <div class="plan__card">
       <div class="plan__icon">
@@ -14,7 +14,7 @@
     </div>
     <div class="plan__card">
       <div class="plan__icon"><i class="fa-solid fa-hammer"></i></div>
-      <h4 class="plan__title">Aanleg</h4>
+      <h4 class="plan__title">Onderhoud</h4>
       <p class="plan__description">Om het hele jaar door optimaal te genieten van jouw tuin is het belangrijk dat deze goed onderhouden wordt. Ik neem je graag deze zorg uit handen.</p>
     </div>
   </div>

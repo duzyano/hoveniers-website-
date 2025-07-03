@@ -4,8 +4,9 @@
 
 .diensten__cards {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 46rem);
   gap: 4rem;
+  justify-content: center;
   margin: 50px auto 100px;
   width: 100%;
 }
