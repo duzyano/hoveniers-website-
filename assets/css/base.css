@@ -62,3 +62,7 @@ textarea {
 .formgroup {
   margin: 2rem 0;
 }
+
+.margin-sm {
+  margin: 100px auto;
+}

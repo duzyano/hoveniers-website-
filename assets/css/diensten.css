@@ -4,8 +4,9 @@
 
 .diensten__cards {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 46rem);
   gap: 4rem;
+  justify-content: center;
   margin: 50px auto 100px;
   width: 100%;
 }
@@ -14,12 +15,16 @@
   width: 100%;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
   padding: 1.2rem;
-  /* transition: all 0.3s ease-in-out; */
+  /*  */
 }
 
-/* .diensten__card:hover {
+.diensten__card img {
+  transition: all 0.3s ease-in-out;
+}
+
+.diensten__card img:hover {
   transform: scale(1.1);
-} */
+}
 
 .diensten__title {
   text-align: center;

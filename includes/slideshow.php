@@ -28,7 +28,7 @@
 </script>
 <div class="slider">
   <img class="mySlides active" src="./assets/images/a8db60_9f168361c12f4ad5800e1acf22f49080_mv2 (1).jpeg">
-  <img class="mySlides" src="./assets/images/a8db60_379dcd1d20d04347b8fac28edbeb45c4_mv2.jpeg">
+  <img class="mySlides" src="./assets/images/a8db60_379dcd1d20d04347b8fac28edbeb45c4_mv2_Nero_AI_Image_Upscaler_Photo_Face.jpeg">
   <img class="mySlides" src="./assets/images/a8db60_e7ba32f754a8415588e6327b5647b8d6_mv2.webp">
   <h1 class="slider__title">Welkom bij de website van Hendrik Hogendijk, hovenier in de regio Utrecht, Zeist en de Bilt.</h1>
 </div>

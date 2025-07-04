@@ -1,14 +1,14 @@
- <navbar class="navbar navbar--scroll">
+ <navbar class="navbar navbar--scroll" role="navigation" aria-label="Main Navigation">
    <div class="navbar__container">
      <div class="navbar__logo">
-       <a href="index.php" class="navbar__logo-link">
-         <img src="./assets/images/logo3__1_-removebg-preview.png" alt="logo" width="300px" height="300px" />
+       <a href="index.php" class="navbar__logo-link" aria-label="Logo Home Link">
+         <img src="./assets/images/logo3__1_-removebg-preview.png" alt="Hogendijk Hovenier logo" width="300px" height="300px" />
        </a>
      </div>
      <div class="navbar__menu">
        <ul class="navbar__menu-list">
          <li class="navbar__menu-item">
-           <a href="index.php" class="navbar__menu-link">Home</a>
+           <a href="/" class="navbar__menu-link">Home</a>
          </li>
          <li class="navbar__menu-item">
            <a href="index.php#aboutme" class="navbar__menu-link">About</a>
@@ -30,14 +30,14 @@
      </div>
      <!-- Mobile Menu & Hamburger Icon -->
      <div class="navbar__mobile-menu">
-       <div class="navbar__mobile-menu-toggle">
+       <div class="navbar__mobile-menu-toggle" role="button" aria-expanded="false" aria-label="Open mobile menu" tabindex="0" aria-controls="mobile-menu-items">
          <i class="fas fa-bars fa-2x"></i>
        </div>
        <!-- Mobile Menu Items -->
        <div class="navbar__mobile-menu-items">
          <ul class="navbar__mobile-menu-list">
            <li class="navbar__mobile-menu-item">
-             <a href="index.php" class="navbar__mobile-menu-link">Home</a>
+             <a href="#" class="navbar__mobile-menu-link">Home</a>
            </li>
            <li class="navbar__mobile-menu-item">
              <a href="index.php#aboutme" class="navbar__mobile-menu-link">About</a>
