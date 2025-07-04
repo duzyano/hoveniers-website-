@@ -6,19 +6,19 @@
   </p>
 
   <form
-    action="https://formspree.io/f/xzzgoooy"
+    action="https://formspree.io/f/mzzgwqer"
     method="POST">
     <div class="formgroup">
       <label for="first-name" class="visually-hidden">Naam</label>
-      <input type="text" name="first-name" id="first-name" placeholder="Naam">
+      <input type="text" name="first-name" id="first-name" placeholder="Naam" required>
     </div>
     <div class="formgroup">
       <label for="email" class="visually-hidden">Email</label>
-      <input type="email" name="email" id="email" placeholder="Email">
+      <input type="email" name="email" id="email" placeholder="Email" required>
     </div>
     <div class="formgroup">
       <label for="number" class="visually-hidden">tel.nr</label>
-      <input type="tel" name="number" id="number" placeholder="Telefoonnummer">
+      <input type="tel" name="number" id="number" placeholder="Telefoonnummer" required>
     </div>
     <div class="formgroup">
       <label for="message" class="visually-hidden">Opmerking</label>
