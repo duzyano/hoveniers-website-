@@ -8,7 +8,7 @@
 
 :root {
   --primary-color: #0b6a36;
-  --secondary-color: #cccccc;
+  --secondary-color: rgba(22, 15, 41, 0.7);
   --tertiary-color: #2f2c3d;
 }
 

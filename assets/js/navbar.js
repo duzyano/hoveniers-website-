@@ -12,10 +12,15 @@ document.addEventListener("DOMContentLoaded", function () {
 window.addEventListener("scroll", function () {
   const navbar = document.querySelector(".navbar");
   const navbarLink = document.querySelector(".navbar__menu-link");
+  const navbarLinkMobile = document.querySelector(".navbar__mobile-menu-link");
 
   if (window.scrollY > 0) {
     navbar.classList.add("navbar--scroll");
   } else {
     navbar.classList.remove("navbar--scroll");
+  }
+
+  if (window.scrollY > 0) {
+    navbarLinkMobile.classList.add("navbar-mobile--scroll");
   }
 });
