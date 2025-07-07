@@ -8,7 +8,7 @@
      <div class="navbar__menu">
        <ul class="navbar__menu-list">
          <li class="navbar__menu-item">
-           <a href="/" class="navbar__menu-link">Home</a>
+           <a href="#" class="navbar__menu-link">Home</a>
          </li>
          <li class="navbar__menu-item">
            <a href="index.php#aboutme" class="navbar__menu-link">About</a>

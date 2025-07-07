@@ -24,3 +24,22 @@
   background: #333;
   color: #fff;
 }
+
+.contact {
+  border-color: #ccc;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact:focus {
+  background: #e4e4e4;
+
+  transform: scale(1.03);
+}
+
+.contact:invalid {
+  border-color: red;
+}
+
+.contact:valid {
+  border-color: green;
+}

@@ -10,15 +10,15 @@
     method="POST">
     <div class="formgroup">
       <label for="first-name" class="visually-hidden">Naam</label>
-      <input type="text" name="first-name" id="first-name" placeholder="Naam" required>
+      <input class="contact" type="text" name="first-name" id="first-name" placeholder="Naam" required>
     </div>
     <div class="formgroup">
       <label for="email" class="visually-hidden">Email</label>
-      <input type="email" name="email" id="email" placeholder="Email" required>
+      <input class="contact" type="email" name="email" id="email" placeholder="Email" required>
     </div>
     <div class="formgroup">
       <label for="number" class="visually-hidden">tel.nr</label>
-      <input type="tel" name="number" id="number" placeholder="Telefoonnummer" required>
+      <input class="contact" type="tel" name="number" id="number" placeholder="Telefoonnummer" required>
     </div>
     <div class="formgroup">
       <label for="message" class="visually-hidden">Opmerking</label>

@@ -52,6 +52,7 @@
 
 .navbar__menu-link {
   color: #fff;
+  transition: all 0.3s ease;
 }
 
 .navbar__menu-link:hover,
